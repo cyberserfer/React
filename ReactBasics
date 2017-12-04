@@ -2,6 +2,18 @@
 
 Components - Describe user interfaces using components. 
 
-    like functions. 
-    Has property and state. 
-    Reusable and composable.
+    like functions
+    Has property and state
+    Reusable and composable
+    Can manage a private state (unlike true functions)
+    
+Reactive Updates
+
+    React will react
+    Takes updates to the browser
+    
+Virtual views in memory
+
+    HTML is created from the JavaScript
+    Version of the page is kept in memory and then compared for updating only the items that changed
+    
