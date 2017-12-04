@@ -16,4 +16,6 @@ Virtual views in memory
 
     HTML is created from the JavaScript
     Version of the page is kept in memory and then compared for updating only the items that changed
-    
+    Does not enhance HTML (which is what other languanges use)
+    Uses JavaScript to render HTML - tree reconciliation
+
