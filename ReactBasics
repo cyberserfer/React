@@ -19,3 +19,6 @@ Virtual views in memory
     Does not enhance HTML (which is what other languanges use)
     Uses JavaScript to render HTML - tree reconciliation
 
+Arrow Function Expression - has a shorter syntax than a function expression and does not have its own this, 
+arguments, super, or new.target. These function expressions are best suited for non-method functions, and they 
+cannot be used as constructors. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions 
