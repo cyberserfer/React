@@ -1,12 +1,5 @@
 # React Basics
 
-Components - Describe user interfaces using components. 
-
-    like functions
-    Has property and state
-    Reusable and composable
-    Can manage a private state (unlike true functions)
-    
 Reactive Updates
 
     React will react
