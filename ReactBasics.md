@@ -25,3 +25,27 @@ cannot be used as constructors. https://developer.mozilla.org/en-US/docs/Web/Jav
 
 Spread Operator {...name}
 
+## Immutabiltiy and Mutation
+### Why Immutability Is Important
+
+There are generally two ways for changing data. The first method is to mutate the data by directly changing the values of a variable. The second method is to replace the data with a new copy of the object that also includes desired changes.
+
+Data change with mutation
+```
+var player = {score: 1, name: 'Jeff'};
+player.score = 2;
+// Now player is {score: 2, name: 'Jeff'}
+```
+
+Data change without mutation
+```
+var player = {score: 1, name: 'Jeff'};
+
+var newPlayer = Object.assign({}, player, {score: 2});
+// Now player is unchanged, but newPlayer is {score: 2, name: 'Jeff'}
+
+// Or if you are using object spread syntax proposal, you can write:
+// var newPlayer = {...player, score: 2};
+```
+
+The end result is the same but by not mutating (or changing the underlying data) directly we now have an added benefit that can help us increase component and overall application performance.
