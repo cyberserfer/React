@@ -1,4 +1,4 @@
-#Programming Definitions
+# Programming Definitions
 
 ***arrow function expression*** - shorter syntax than a function expression and does not have its own this, arguments,
 super, or new.target. These function expressions are best suited for non-method functions, and they cannot be used as constructors.
@@ -11,7 +11,20 @@ programming language interprets. JavaScript has the following expression categor
   Logical: evaluates to true or false. (Often involves logical operators.) 
   Object: evaluates to an object. (See special operators for various ones that evaluate to objects.)"
 
-***object literal*** - 
+***object literal*** - comma-separated list of name-value pairs wrapped in curly braces. Object literals encapsulate data, enclosing it in a tidy package. This minimizes the use of global variables which can cause problems when combining code. Object literal property values can be of any data type, including array literals, functions, and nested object literals. Here is another object literal example with these property types:
+```
+var Swapper = {
+    // an array literal
+    images: ["smile.gif", "grim.gif", "frown.gif", "bomb.gif"],
+    pos: { // nested object literal
+        x: 40,
+        y: 300
+    },
+    onSwap: function() { // function
+        // code here
+    }
+};
+```
 
 ***promise*** - 
 
