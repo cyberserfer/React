@@ -26,7 +26,7 @@ var Swapper = {
 };
 ```
 
-***promise*** - 
+***promise*** - represents the eventual result of an asynchronous operation. It is a placeholder into which the successful result value or reason for failure will materialize.
 
 ***statements*** - comprises the body of the function.
 ```
