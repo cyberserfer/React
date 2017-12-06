@@ -6,10 +6,10 @@ super, or new.target. These function expressions are best suited for non-method 
 ***expression*** -  a combination of one or more explicit values, constants, variables, operators, and functions that the 
 programming language interprets. JavaScript has the following expression categories:
 
-  Arithmetic: evaluates to a number, for example 3.14159. (Generally uses arithmetic operators.) 
-  String: evaluates to a character string, for example, "Fred" or "234". (Generally uses string operators.) 
-  Logical: evaluates to true or false. (Often involves logical operators.) 
-  Object: evaluates to an object. (See special operators for various ones that evaluate to objects.)"
+    Arithmetic: evaluates to a number, for example 3.14159. (Generally uses arithmetic operators.) 
+    String: evaluates to a character string, for example, "Fred" or "234". (Generally uses string operators.) 
+    Logical: evaluates to true or false. (Often involves logical operators.) 
+    Object: evaluates to an object. (See special operators for various ones that evaluate to objects.)"
 
 ***object literal*** - comma-separated list of name-value pairs wrapped in curly braces. Object literals encapsulate data, enclosing it in a tidy package. This minimizes the use of global variables which can cause problems when combining code. Object literal property values can be of any data type, including array literals, functions, and nested object literals. Here is another object literal example with these property types:
 ```
