@@ -11,6 +11,14 @@ arguments[1]
 ***arrow function expression*** - shorter syntax than a function expression and does not have its own this, arguments,
 super, or new.target. These function expressions are best suited for non-method functions, and they cannot be used as constructors.
 
+***Components*** - user interfaces are described using components. 
+
+    like functions
+    Has property and state
+    Reusable and composable
+    Can manage a private state (unlike true functions)
+    
+
 ***expression*** -  a combination of one or more explicit values, constants, variables, operators, and functions that the 
 programming language interprets. JavaScript has the following expression categories:
 
