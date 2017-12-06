@@ -15,4 +15,18 @@ Create React App doesn’t handle backend logic or databases; it just creates a 
 
 When you’re ready to deploy to production, running npm run build will create an optimized build of your app in the build folder. You can learn more about Create React App from its README and the [User Guide] https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#table-of-contents.
 
+npm commands available:
+```
+ npm start
+    Starts the development server.
 
+  npm run build
+    Bundles the app into static files for production.
+
+  npm test
+    Starts the test runner.
+
+  npm run eject
+    Removes this tool and copies build dependencies, configuration files
+    and scripts into the app directory. If you do this, you can’t go back!
+```
