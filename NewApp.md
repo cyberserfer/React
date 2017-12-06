@@ -10,6 +10,10 @@ create-react-app repo-name
 cd repo-name
 npm start
 ```
+Then open http://localhost:3000/ to see your app.
+
+When you’re ready to deploy to production, create a minified bundle with 
+```npm run build```
 
 Create React App doesn’t handle backend logic or databases; it just creates a frontend build pipeline, so you can use it with any backend you want. It uses build tools like Babel and webpack under the hood, but works with zero configuration.
 
