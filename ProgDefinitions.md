@@ -1,9 +1,9 @@
 #Programming Definitions
 
-arrow function expression - shorter syntax than a function expression and does not have its own this, arguments,
+***arrow function expression*** - shorter syntax than a function expression and does not have its own this, arguments,
 super, or new.target. These function expressions are best suited for non-method functions, and they cannot be used as constructors.
 
-expression -  a combination of one or more explicit values, constants, variables, operators, and functions that the 
+***expression*** -  a combination of one or more explicit values, constants, variables, operators, and functions that the 
 programming language interprets. JavaScript has the following expression categories:
 
   Arithmetic: evaluates to a number, for example 3.14159. (Generally uses arithmetic operators.) 
@@ -11,11 +11,11 @@ programming language interprets. JavaScript has the following expression categor
   Logical: evaluates to true or false. (Often involves logical operators.) 
   Object: evaluates to an object. (See special operators for various ones that evaluate to objects.)"
 
-object literal - 
+***object literal*** - 
 
-promise - 
+***promise*** - 
 
-statements - comprises the body of the function.
+***statements*** - comprises the body of the function.
 ```
 function name([param[, param[, ... param]]]) {
    statements
