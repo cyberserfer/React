@@ -1,5 +1,13 @@
 # Programming Definitions
 
+***arguments object*** - a local variable available within all (non-arrow) functions. You can refer to a function's arguments within the function by using the arguments object. This object contains an entry for each argument passed to the function, the first entry's index starting at 0. The arguments object is not an Array. It is similar to an Array, but does not have any Array properties except length.
+```
+arguments[1] = 'new value'; // set argument
+
+arguments[0] // refer to argument
+arguments[1]
+```
+
 ***arrow function expression*** - shorter syntax than a function expression and does not have its own this, arguments,
 super, or new.target. These function expressions are best suited for non-method functions, and they cannot be used as constructors.
 
