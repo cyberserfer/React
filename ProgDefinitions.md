@@ -18,6 +18,8 @@ super, or new.target. These function expressions are best suited for non-method 
     Reusable and composable
     Can manage a private state (unlike true functions)
     
+Always start component names with a capital letter.
+```For example, <div /> represents a DOM tag, but <Welcome /> represents a component and requires Welcome to be in scope.```
 
 ***expression*** -  a combination of one or more explicit values, constants, variables, operators, and functions that the 
 programming language interprets. JavaScript has the following expression categories:
