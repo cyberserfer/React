@@ -1,4 +1,4 @@
-# Creating a New Application
+# The Quick Way to Create a New React Application
 
 Create React App is the best way to start building a new React single page application. It sets up your development environment 
 so that you can use the latest JavaScript features, provides a nice developer experience, and optimizes your app for production. 
