@@ -17,3 +17,22 @@ console.log(numbers); // [1, 2, 3, 4, 5, 6, 7]
 ```
 this.setState({ color: newColor });
 ```
+Array.filter
+
+Array.length
+
+Array.slice
+
+string.length
+
+Array.slice
+
+string.slice
+
+for each
+
+document.getElementById
+
+document.getElementByClass
+
+Promises
