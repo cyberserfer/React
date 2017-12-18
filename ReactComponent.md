@@ -10,3 +10,5 @@ Props - fixed value
 State - can be changed
 
 *Presentational component* will always get rendered by a *container component*.
+
+Stateless Functional Component - A component class written as a function.
