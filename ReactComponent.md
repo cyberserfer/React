@@ -8,3 +8,5 @@ internal state and not their properties.
 Props - fixed value
 
 State - can be changed
+
+*Presentational component* will always get rendered by a *container component*.
