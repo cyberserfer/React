@@ -1,10 +1,5 @@
 # React Basics
 
-Reactive Updates
-
-    React will react
-    Takes updates to the browser
-    
 Virtual views in memory
 
     HTML is created from the JavaScript
