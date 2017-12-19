@@ -12,3 +12,5 @@ Babel install and set up instructions (multiple flavors): https://babeljs.io/doc
 Coding refernce: https://developer.mozilla.org/en-US/
 
 Curated collection of useful Javascript snippets that you can understand in 30 seconds or less. - https://github.com/Chalarangelo/30-seconds-of-code#table-of-contents
+
+React Forms info https://reactjs.org/docs/forms.html
