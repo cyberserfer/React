@@ -22,9 +22,9 @@ Always start component names with a capital letter.
 
 ```For example, <div /> represents a DOM tag, but <Welcome /> represents a component and requires Welcome to be in scope.```
 
-***Component  (uncontrolled)*** - is a component that maintains its own internal state. 
+***Component  (uncontrolled)*** - is a component that maintains its own internal state. It maintains its own internal state, by remembering data about itself.
 
-***Component (controlled)*** - is a component that does not maintain any internal state. Since a controlled component has no state, it must be controlled by someone else.
+***Component (controlled)*** - is a component that does not maintain any internal state. Since a controlled component has no state, it must be controlled by someone else. A controlled component has no memory. If you ask it for information about itself, then it will have to get that information through props. Most React components are controlled.
 
 ***expression*** -  a combination of one or more explicit values, constants, variables, operators, and functions that the 
 programming language interprets. JavaScript has the following expression categories:
