@@ -22,6 +22,10 @@ Always start component names with a capital letter.
 
 ```For example, <div /> represents a DOM tag, but <Welcome /> represents a component and requires Welcome to be in scope.```
 
+***Component  (uncontrolled)*** - is a component that maintains its own internal state. 
+
+***Component (controlled)*** - is a component that does not maintain any internal state. Since a controlled component has no state, it must be controlled by someone else.
+
 ***expression*** -  a combination of one or more explicit values, constants, variables, operators, and functions that the 
 programming language interprets. JavaScript has the following expression categories:
 
