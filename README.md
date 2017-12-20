@@ -1,6 +1,10 @@
 # React
 React info
 
+ES6 classes - code examples: http://exploringjs.com/es6/ch_classes.htm
+
+ES6 classes in depth. Wraps explanation around examples: https://hacks.mozilla.org/2015/07/es6-in-depth-classes/
+
 React online dev tool for practicing: https://jscomplete.com/repl/ 
 
 Create React App (quickstart framework): https://github.com/facebookincubator/create-react-app 
