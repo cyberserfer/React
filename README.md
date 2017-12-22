@@ -11,6 +11,8 @@ Create React App (quickstart framework): https://github.com/facebookincubator/cr
 
 Github API https://api.github.com
 
+Good explanation of map/keys: https://revelry.co/dynamic-child-components-with-react/
+
 Babel install and set up instructions (multiple flavors): https://babeljs.io/docs/setup/#installation
 
 Coding refernce: https://developer.mozilla.org/en-US/
