@@ -1,5 +1,7 @@
 # React Basics
 
+Components - no components inside other components; not when you are defining them.
+
 Virtual views in memory
 
     HTML is created from the JavaScript
