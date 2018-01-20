@@ -7,9 +7,10 @@ You’ll need to have Node >= 6 on your machine.
 Full instructions can be found in the readme of the Github repo: https://github.com/facebookincubator/create-react-app
 
 ```
+Install
 > npm install -g create-react-app  // set up global access - only done once
 
-To create a new app repo that uses "create-react-app"
+CREATE a new app repo that uses "create-react-app"
 > create-react-app repo-name
 > cd repo-name
 > npm start
