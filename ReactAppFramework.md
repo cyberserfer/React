@@ -7,13 +7,14 @@ You’ll need to have Node >= 6 on your machine.
 Full instructions can be found in the readme of the Github repo: https://github.com/facebookincubator/create-react-app
 
 ```
-npm install -g create-react-app
-create-react-app repo-name
+> npm install -g create-react-app  // set up global access - only done once
 
-cd repo-name
-npm start
+To create a new app repo that uses "create-react-app"
+> create-react-app repo-name
+> cd repo-name
+> npm start
 ```
-Then open http://localhost:3000/ to see your app.
+http://localhost:3000/ should open automatically in your browser and you should see your app.
 
 When you’re ready to deploy to production, create a minified bundle with 
 ```npm run build```
