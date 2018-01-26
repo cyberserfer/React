@@ -39,3 +39,9 @@ var newPlayer = Object.assign({}, player, {score: 2});
 ```
 
 The end result is the same but by not mutating (or changing the underlying data) directly we now have an added benefit that can help us increase component and overall application performance.
+
+## Spread Operator
+```
+let c = incominObject
+let z = {...c; name: 'joe'}  // you can add new pairs after the object has been iterated with the spread operator
+```
