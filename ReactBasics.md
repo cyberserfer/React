@@ -45,3 +45,7 @@ The end result is the same but by not mutating (or changing the underlying data)
 let c = incominObject
 let z = {...c; name: 'joe'}  // you can add new pairs after the object has been iterated with the spread operator
 ```
+## True Evaluator  (sort of like Ternary)
+```
+{viewedUser && <UserViewedContainer viewedUser={viewedUser} /> // this will evaluate the value of viewedUser and if there is a value (i.e. true) then the <UserViewedContainer... function will execute
+```
