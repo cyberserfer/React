@@ -2,6 +2,8 @@
 
 Function Component - simplest form of function. Receives props (properties) and returns what looks like HTML
 
+Stateful component requires a render method.
+
 Class Component - more featured function. Maintains a private state which gets updated when changed. Can only change their
 internal state and not their properties.
 
