@@ -1,6 +1,8 @@
 # React
 React info
 
+Mock API - http://www.mockapi.io/ (uses github oauth)
+
 ES6 classes - code examples: http://exploringjs.com/es6/ch_classes.htm
 
 ES6 classes in depth. Wraps explanation around examples: https://hacks.mozilla.org/2015/07/es6-in-depth-classes/
