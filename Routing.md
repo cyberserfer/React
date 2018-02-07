@@ -16,7 +16,7 @@ path - The path pattern used to match. Useful for building nested <Route>s
 
 url - The matched portion of the URL. Useful for building nested <Link>s
   
-Use match.path for building nested ***Routes*** and use match.url for building nested ***Links***.
+Use ***match.path*** for building nested ***Routes*** and use ***match.url*** for building nested ***Links***.
 
 ## Add style to the Link tag
 
