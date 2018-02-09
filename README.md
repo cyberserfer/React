@@ -1,5 +1,12 @@
 # React
-React info
+
+class - get/give stuff to API
+
+function (classlist) - just render info
+
+
+
+## Useful Links
 
 Mock API - http://www.mockapi.io/ (uses github oauth)
 
