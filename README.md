@@ -20,11 +20,15 @@ Create React App (quickstart framework): https://github.com/facebookincubator/cr
 
 Github API https://api.github.com
 
+Create a branch
+
+    git checkout -b nameOfBranch
+
 Best (and safest) way to merge a git branch into master
     
     git checkout master
     git pull origin master
-    git merge test
+    git merge nameOfBranch
     git push origin master
 
 Good explanation of map/keys: https://revelry.co/dynamic-child-components-with-react/
